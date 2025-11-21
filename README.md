@@ -4,7 +4,7 @@
 
 *Student:* Venkata Sai Vishveswar  
 *Roll No:* BE22B042  
-*Course:* DA5401 (Data Science)
+*Course:* DA5401 (DAL)
 
 ---
 
